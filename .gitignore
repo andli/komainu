@@ -1,5 +1,6 @@
 # custom
 secrets.ps1
+sqlite_db.sqlite
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
