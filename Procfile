@@ -1,1 +1,1 @@
-web: gunicorn --workers=4 --bind=127.0.0.1:$PORT --worker-class=gevent app:app
+web: gunicorn app:app
