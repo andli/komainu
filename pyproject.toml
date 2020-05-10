@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "komainu"
+version = "0.1.0"
+description = "just server things"
+authors = ["Andreas Ehrlund <a.ehrlund@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.23.0"
+Flask = "^1.1.2"
+oauthlib = "^3.1.0"
+pyOpenSSL = "^19.1.0"
+Flask-Login = "^0.5.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
