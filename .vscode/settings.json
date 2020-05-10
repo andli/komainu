@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}\\sqlite_db",
+            "dialect": "SQLite",
+            "name": "localhost"
+        }
+    ]
+}
