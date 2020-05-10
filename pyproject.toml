@@ -6,7 +6,7 @@ authors = ["Andreas Ehrlund <a.ehrlund@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "3.8.1"
 requests = "^2.23.0"
 Flask = "^1.1.2"
 oauthlib = "^3.1.0"
